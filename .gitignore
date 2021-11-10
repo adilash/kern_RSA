@@ -1,0 +1,10 @@
+.kern_rsa.ko.cmd
+.kern_rsa.mod.o.cmd
+.kern_rsa.o.cmd
+.tmp_versions/
+Module.symvers
+kern_rsa.ko
+kern_rsa.mod.c
+kern_rsa.mod.o
+kern_rsa.o
+modules.order
